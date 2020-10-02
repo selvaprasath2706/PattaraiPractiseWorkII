@@ -1,0 +1,65 @@
+body{
+  background-color: #BBDEFB;
+
+}
+.container{
+  padding-top: 30px;
+  padding-bottom: 30px;
+   font-family: 'Slabo 27px', serif;
+  font-size: 32px;
+
+}
+.Header
+{
+  font-size: 37px;
+  font-weight: 200;
+  text-align: center;
+}
+
+.Header img
+{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  }
+.HomeLayout {
+  background-color: Dodgerblue;
+  text-align: center;
+  font-size: 18px;
+font-family: 'Dancing Script', cursive;
+  display: block;
+  border-radius:5px;
+}
+.HomeLayout hr{
+
+  height: 5px;
+  background-color: red;
+}
+.HomeLayout img{
+
+  background: transparent;
+  text-align: center;
+
+}
+.Liketext{
+  color:yellow;
+}
+.HomeLayout p{
+  padding-left:7%;
+  padding-right:5%;
+  margin: 5px 0;
+  font-size: 32px;
+   text-align: left;
+  color: black;
+  border-radius:5px;
+}
+.profilename{
+  font-size: 22px;
+  display: block;
+  color: Yellow;
+padding-left:  220px;
+padding-top:   20px;
+padding-bottom:  20px;
+
+text-align: left;
+}
